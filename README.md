@@ -3,6 +3,7 @@
 A professional full-stack business intelligence platform that integrates real-time PostgreSQL data with custom predictive logic to visualize sales trends and future revenue forecasts.
 
 
+![Predictive Sales Dashboard Preview](./Predictive_Sales_Dashboard.png)
 
 ## 🚀 Project Overview
 
