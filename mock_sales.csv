@@ -1,0 +1,501 @@
+id,timestamp,amount,category,customer_name,region,status
+486,2025-07-03 13:23:54.017210,216.11,Hardware,Graham Inc,Europe,completed
+326,2025-07-03 13:23:54.017210,723.61,Software,"Nguyen, White and Vincent",Asia,completed
+374,2025-07-04 13:23:54.017210,278.59,Consulting,"Coleman, Velasquez and Arias",Asia,completed
+198,2025-07-04 13:23:54.017210,156.32,Hardware,Ashley-Stevens,Asia,completed
+29,2025-07-04 13:23:54.017210,75.22,Subscription,Lee-Adams,Asia,completed
+112,2025-07-04 13:23:54.017210,120.64,Hardware,Campbell-Rodriguez,Europe,completed
+464,2025-07-05 13:23:54.017210,331.86,Software,Freeman Ltd,Europe,completed
+498,2025-07-05 13:23:54.017210,1191.32,Subscription,Johnson and Sons,North America,completed
+170,2025-07-05 13:23:54.017210,696.78,Software,James and Sons,Europe,pending
+331,2025-07-06 13:23:54.017210,444.73,Software,Espinoza-Smith,Europe,completed
+130,2025-07-06 13:23:54.017210,61.06,Software,"Brown, Duncan and Rodriguez",North America,pending
+76,2025-07-06 13:23:54.017210,715.38,Subscription,"Lopez, Daniel and Monroe",Asia,completed
+69,2025-07-06 13:23:54.017210,87.43,Subscription,Garcia Group,Europe,completed
+177,2025-07-07 13:23:54.017210,172.82,Consulting,Booker Inc,North America,completed
+192,2025-07-07 13:23:54.017210,350.34,Consulting,York-Cook,Asia,pending
+148,2025-07-08 13:23:54.017210,222.14,Software,"Mejia, Robinson and Ramirez",Asia,pending
+21,2025-07-09 13:23:54.017210,319.25,Hardware,"Potter, Walker and Freeman",Europe,completed
+111,2025-07-09 13:23:54.017210,473.78,Software,Harvey-Clark,North America,completed
+64,2025-07-09 13:23:54.017210,534.16,Hardware,"Quinn, Bell and Lopez",Europe,completed
+195,2025-07-10 13:23:54.017210,73.01,Consulting,Harding-Lewis,Europe,completed
+254,2025-07-10 13:23:54.017210,311.51,Hardware,Grimes-Morton,Europe,completed
+166,2025-07-10 13:23:54.017210,158.3,Subscription,Rasmussen Inc,LATAM,completed
+297,2025-07-11 13:23:54.017210,326.02,Hardware,"Christensen, Salazar and Escobar",Europe,completed
+80,2025-07-11 13:23:54.017210,488.11,Consulting,Olson and Sons,North America,completed
+265,2025-07-11 13:23:54.017210,69.58,Consulting,Henderson Inc,Europe,completed
+302,2025-07-11 13:23:54.017210,119.29,Subscription,"Stevens, Townsend and Roberts",Europe,completed
+96,2025-07-11 13:23:54.017210,518.24,Consulting,Jacobs-Orozco,Asia,pending
+171,2025-07-11 13:23:54.017210,146.54,Consulting,Melton-Romero,LATAM,completed
+463,2025-07-12 13:23:54.017210,501.67,Software,Maddox Inc,North America,completed
+339,2025-07-12 13:23:54.017210,673.47,Software,Nichols Inc,Asia,completed
+380,2025-07-12 13:23:54.017210,836.14,Software,Lopez-Patterson,LATAM,completed
+406,2025-07-13 13:23:54.017210,375.08,Hardware,Lang Group,LATAM,completed
+304,2025-07-13 13:23:54.017210,294.18,Subscription,"Gonzalez, Middleton and Anderson",North America,completed
+462,2025-07-14 13:23:54.017210,78.6,Consulting,Ross-Rose,Europe,completed
+50,2025-07-14 13:23:54.017210,104.87,Consulting,"Travis, Willis and Ford",LATAM,completed
+201,2025-07-14 13:23:54.017210,670.96,Subscription,Cooper-Bell,Europe,completed
+206,2025-07-14 13:23:54.017210,75.74,Hardware,Sanchez-Hanson,Europe,completed
+8,2025-07-15 13:23:54.017210,175.5,Consulting,Gregory-Anderson,Europe,completed
+165,2025-07-16 13:23:54.017210,234.42,Hardware,Neal Ltd,North America,completed
+320,2025-07-16 13:23:54.017210,246.29,Hardware,Sosa-Murphy,LATAM,completed
+311,2025-07-16 13:23:54.017210,690.96,Software,"Gutierrez, Cunningham and Hart",Asia,completed
+278,2025-07-16 13:23:54.017210,371.49,Software,Smith-Gomez,Asia,completed
+184,2025-07-16 13:23:54.017210,308.14,Hardware,"Newman, Schneider and James",Europe,completed
+218,2025-07-17 13:23:54.017210,518.15,Hardware,Newman LLC,North America,completed
+401,2025-07-17 13:23:54.017210,751.35,Hardware,Simpson-Jones,Asia,completed
+144,2025-07-17 13:23:54.017210,119.51,Hardware,Jackson-Bailey,Europe,refunded
+116,2025-07-18 13:23:54.017210,111.79,Software,Allen-Pham,LATAM,pending
+400,2025-07-18 13:23:54.017210,489.17,Software,"Fleming, Stark and Hendrix",Asia,completed
+74,2025-07-18 13:23:54.017210,511.85,Software,"Fleming, Gonzalez and Deleon",Europe,completed
+399,2025-07-19 13:23:54.017210,1023.87,Hardware,Gutierrez-Herrera,LATAM,completed
+99,2025-07-20 13:23:54.017210,368.92,Subscription,Hensley-Robertson,Europe,completed
+427,2025-07-20 13:23:54.017210,580.0,Consulting,Chandler Group,North America,completed
+489,2025-07-20 13:23:54.017210,1254.46,Subscription,Oliver-Rodriguez,Asia,completed
+75,2025-07-20 13:23:54.017210,405.43,Subscription,Hicks Group,Asia,completed
+451,2025-07-20 13:23:54.017210,827.27,Software,"Mahoney, Hughes and Grimes",LATAM,completed
+232,2025-07-21 13:23:54.017210,47.92,Hardware,Wilkins-Wolf,LATAM,completed
+260,2025-07-21 13:23:54.017210,503.99,Consulting,Cunningham-Stevens,LATAM,pending
+219,2025-07-23 13:23:54.017210,370.58,Software,Johnson Ltd,North America,completed
+136,2025-07-23 13:23:54.017210,451.35,Subscription,Larsen-Garrett,Asia,completed
+296,2025-07-23 13:23:54.017210,659.56,Hardware,Reeves and Sons,LATAM,completed
+313,2025-07-23 13:23:54.017210,440.92,Hardware,"Wyatt, Bowman and Perez",Asia,completed
+345,2025-07-23 13:23:54.017210,576.73,Hardware,"Mcneil, Lane and Blankenship",LATAM,completed
+105,2025-07-24 13:23:54.017210,411.88,Software,Giles Ltd,North America,completed
+103,2025-07-25 13:23:54.017210,388.19,Software,Reynolds-Shelton,Europe,completed
+353,2025-07-25 13:23:54.017210,164.44,Consulting,Calderon-Norris,North America,completed
+230,2025-07-26 13:23:54.017210,211.82,Hardware,"Reeves, Hancock and Benitez",Europe,completed
+79,2025-07-27 13:23:54.017210,433.54,Subscription,Cruz-Freeman,North America,completed
+474,2025-07-27 13:23:54.017210,626.22,Hardware,"Walker, Cabrera and Anthony",Europe,completed
+179,2025-07-28 13:23:54.017210,457.39,Consulting,Clark Ltd,Europe,completed
+418,2025-07-28 13:23:54.017210,55.89,Hardware,"Chandler, Ford and Pittman",LATAM,refunded
+364,2025-07-28 13:23:54.017210,561.77,Consulting,"Colon, Castillo and Walsh",LATAM,completed
+476,2025-07-29 13:23:54.017210,505.16,Software,Curtis-Lamb,North America,completed
+93,2025-07-30 13:23:54.017210,329.47,Hardware,Perez-Smith,Asia,completed
+355,2025-07-30 13:23:54.017210,583.18,Hardware,Rice Ltd,Asia,completed
+145,2025-07-31 13:23:54.017210,149.53,Subscription,Phelps-Gaines,Asia,completed
+107,2025-07-31 13:23:54.017210,384.18,Subscription,Taylor-Smith,Asia,completed
+262,2025-08-02 13:23:54.017210,263.68,Software,Lopez-Navarro,LATAM,completed
+223,2025-08-02 13:23:54.017210,240.87,Hardware,Brown LLC,North America,pending
+363,2025-08-02 13:23:54.017210,263.64,Consulting,"Solis, Thompson and Barnett",Europe,completed
+318,2025-08-02 13:23:54.017210,889.12,Consulting,Castro-Long,Europe,completed
+398,2025-08-02 13:23:54.017210,745.84,Subscription,"Johnson, Scott and Perry",Europe,completed
+294,2025-08-03 13:23:54.017210,93.89,Software,Miller LLC,Asia,completed
+60,2025-08-03 13:23:54.017210,685.01,Software,Bennett PLC,Europe,completed
+101,2025-08-03 13:23:54.017210,48.25,Consulting,"Walsh, Meyers and Green",Europe,completed
+231,2025-08-03 13:23:54.017210,639.83,Subscription,Gray-Wilson,LATAM,completed
+19,2025-08-04 13:23:54.017210,170.14,Hardware,"Duncan, Ramos and Green",Asia,completed
+194,2025-08-05 13:23:54.017210,384.2,Hardware,Harris Ltd,Europe,completed
+386,2025-08-06 13:23:54.017210,167.38,Subscription,Gardner-Marks,Europe,refunded
+61,2025-08-06 13:23:54.017210,349.74,Software,Frank LLC,North America,completed
+395,2025-08-06 13:23:54.017210,443.15,Subscription,Roberts-Alvarado,Europe,completed
+315,2025-08-07 13:23:54.017210,653.47,Subscription,"Robinson, Weeks and Bailey",Europe,pending
+437,2025-08-07 13:23:54.017210,75.07,Consulting,"Parker, Townsend and Hernandez",Europe,pending
+305,2025-08-09 13:23:54.017210,872.59,Consulting,Stokes Group,Europe,completed
+182,2025-08-10 13:23:54.017210,275.74,Software,Wright Group,LATAM,completed
+227,2025-08-10 13:23:54.017210,529.59,Subscription,"Smith, Perez and Gilmore",LATAM,refunded
+341,2025-08-10 13:23:54.017210,744.03,Hardware,Brown Inc,LATAM,completed
+286,2025-08-11 13:23:54.017210,256.0,Software,Elliott LLC,LATAM,completed
+417,2025-08-11 13:23:54.017210,277.75,Hardware,Evans PLC,Asia,completed
+348,2025-08-11 13:23:54.017210,77.36,Software,Frank-Figueroa,LATAM,completed
+157,2025-08-11 13:23:54.017210,276.83,Software,"Arellano, Peters and Hunt",Asia,completed
+258,2025-08-11 13:23:54.017210,719.14,Software,"Barker, Spencer and Lee",Europe,completed
+252,2025-08-12 13:23:54.017210,324.15,Consulting,Dixon LLC,North America,completed
+253,2025-08-12 13:23:54.017210,358.35,Consulting,"Dickson, Smith and Baker",LATAM,completed
+186,2025-08-12 13:23:54.017210,116.54,Subscription,Rodriguez PLC,LATAM,completed
+30,2025-08-12 13:23:54.017210,258.17,Consulting,Fry-Diaz,LATAM,completed
+28,2025-08-12 13:23:54.017210,202.89,Subscription,Klein-Johnson,Asia,completed
+496,2025-08-12 13:23:54.017210,331.66,Hardware,"Frazier, Oneal and Rodriguez",Europe,completed
+142,2025-08-12 13:23:54.017210,506.53,Consulting,Russell-Chavez,North America,completed
+378,2025-08-13 13:23:54.017210,716.7,Subscription,Newton-Jackson,Asia,completed
+439,2025-08-13 13:23:54.017210,76.26,Consulting,Sanchez-Tran,Europe,completed
+247,2025-08-13 13:23:54.017210,522.74,Consulting,Johnson-Jacobs,LATAM,pending
+236,2025-08-13 13:23:54.017210,271.06,Software,Parker-Mccarty,LATAM,completed
+274,2025-08-14 13:23:54.017210,629.95,Consulting,"Good, Ray and Hill",Europe,completed
+479,2025-08-14 13:23:54.017210,547.09,Software,Frank and Sons,North America,completed
+477,2025-08-15 13:23:54.017210,194.88,Software,Harris-Hernandez,Europe,completed
+367,2025-08-16 13:23:54.017210,615.88,Subscription,Arnold-Wilson,LATAM,completed
+119,2025-08-16 13:23:54.017210,483.12,Hardware,Luna-Tate,North America,completed
+114,2025-08-16 13:23:54.017210,766.33,Subscription,Lee PLC,North America,completed
+97,2025-08-16 13:23:54.017210,633.63,Software,"Shepherd, Gray and Perez",LATAM,completed
+185,2025-08-16 13:23:54.017210,976.74,Hardware,Cunningham-Moore,Europe,completed
+207,2025-08-17 13:23:54.017210,122.41,Consulting,Coleman-Mendoza,LATAM,pending
+310,2025-08-17 13:23:54.017210,420.14,Software,"Long, Lewis and Rivera",North America,completed
+67,2025-08-17 13:23:54.017210,205.19,Software,Weber-Abbott,Asia,refunded
+56,2025-08-17 13:23:54.017210,819.22,Consulting,Waller-Shah,Europe,completed
+289,2025-08-18 13:23:54.017210,184.36,Consulting,Webster LLC,North America,completed
+209,2025-08-18 13:23:54.017210,629.14,Software,Logan Group,LATAM,completed
+472,2025-08-19 13:23:54.017210,359.93,Consulting,Lopez-Merritt,Europe,completed
+159,2025-08-19 13:23:54.017210,214.93,Consulting,Herrera-Wilson,LATAM,completed
+41,2025-08-20 13:23:54.017210,39.43,Hardware,White-Hall,LATAM,completed
+135,2025-08-20 13:23:54.017210,617.35,Software,Brown PLC,LATAM,completed
+293,2025-08-21 13:23:54.017210,100.04,Software,"Jensen, Hayden and Garcia",North America,completed
+214,2025-08-21 13:23:54.017210,327.35,Software,Ross-Farmer,Asia,completed
+82,2025-08-22 13:23:54.017210,88.85,Software,"Abbott, Heath and Frank",Europe,completed
+447,2025-08-22 13:23:54.017210,411.35,Subscription,"Fletcher, Austin and Simpson",Asia,completed
+420,2025-08-24 13:23:54.017210,369.23,Consulting,"Hudson, Gordon and Lee",LATAM,completed
+442,2025-08-24 13:23:54.017210,440.67,Hardware,Montgomery and Sons,Asia,completed
+414,2025-08-24 13:23:54.017210,366.73,Subscription,Brown and Sons,Europe,completed
+188,2025-08-24 13:23:54.017210,134.15,Software,"Erickson, Oliver and Mullins",LATAM,completed
+276,2025-08-24 13:23:54.017210,805.04,Hardware,Parker-Cervantes,North America,pending
+277,2025-08-24 13:23:54.017210,966.81,Hardware,"Wilson, Johnson and Martinez",Asia,completed
+169,2025-08-25 13:23:54.017210,187.6,Software,Pollard-Villarreal,LATAM,completed
+125,2025-08-25 13:23:54.017210,604.59,Subscription,"Ortiz, Hall and Lindsey",Asia,completed
+434,2025-08-25 13:23:54.017210,753.36,Software,"Kelley, Smith and Flynn",Asia,completed
+319,2025-08-26 13:23:54.017210,193.7,Subscription,Tate LLC,Asia,pending
+71,2025-08-26 13:23:54.017210,60.33,Subscription,Douglas-Wolfe,LATAM,completed
+284,2025-08-27 13:23:54.017210,738.39,Consulting,"Long, Mccoy and Freeman",Europe,completed
+225,2025-08-27 13:23:54.017210,130.9,Consulting,Pineda Ltd,North America,completed
+328,2025-08-27 13:23:54.017210,762.36,Subscription,Martin-Salazar,Asia,completed
+4,2025-08-27 13:23:54.017210,167.32,Consulting,Smith-Buchanan,North America,completed
+240,2025-08-27 13:23:54.017210,640.76,Subscription,Barr PLC,Asia,completed
+212,2025-08-28 13:23:54.017210,502.42,Subscription,Johnson-Nichols,Asia,completed
+384,2025-08-28 13:23:54.017210,255.55,Subscription,"Nunez, Bradford and Jennings",Europe,completed
+468,2025-08-29 13:23:54.017210,695.3,Consulting,"Olson, Garcia and Morris",Europe,completed
+118,2025-08-29 13:23:54.017210,382.68,Consulting,"Wilson, Ayala and Knox",LATAM,completed
+470,2025-08-30 13:23:54.017210,1014.74,Software,Stevens-Meyer,North America,completed
+312,2025-08-30 13:23:54.017210,60.76,Software,Terry PLC,North America,completed
+124,2025-08-30 13:23:54.017210,432.02,Consulting,"Brown, Rodriguez and Adams",LATAM,completed
+408,2025-08-31 13:23:54.017210,569.37,Software,"Vega, Craig and Crawford",LATAM,completed
+10,2025-09-01 13:23:54.017210,192.14,Hardware,Beard and Sons,Europe,completed
+224,2025-09-01 13:23:54.017210,467.2,Consulting,Butler-Hughes,Europe,completed
+221,2025-09-01 13:23:54.017210,667.44,Subscription,"Woods, Deleon and Mann",North America,completed
+432,2025-09-02 13:23:54.017210,131.12,Software,"Scott, Bryant and Pennington",Asia,completed
+210,2025-09-02 13:23:54.017210,269.93,Hardware,Bailey LLC,Europe,completed
+139,2025-09-02 13:23:54.017210,186.63,Hardware,Mullins-Gonzalez,Asia,completed
+72,2025-09-02 13:23:54.017210,92.01,Software,"Ferrell, Mata and Davis",Europe,completed
+299,2025-09-03 13:23:54.017210,468.97,Subscription,"Holt, Bell and Smith",LATAM,completed
+261,2025-09-03 13:23:54.017210,271.47,Subscription,Russell-Daniels,Europe,pending
+150,2025-09-04 13:23:54.017210,557.01,Subscription,Nelson Group,Europe,completed
+429,2025-09-05 13:23:54.017210,685.81,Hardware,Jenkins-King,Asia,completed
+55,2025-09-05 13:23:54.017210,421.75,Software,Martinez-Garcia,Europe,completed
+11,2025-09-06 13:23:54.017210,753.43,Subscription,"Rodriguez, Fox and Savage",Europe,completed
+325,2025-09-06 13:23:54.017210,306.23,Hardware,Nichols-Chapman,LATAM,completed
+291,2025-09-06 13:23:54.017210,752.61,Software,Carter-Hansen,Europe,completed
+490,2025-09-08 13:23:54.017210,644.65,Software,Wong-Contreras,Europe,completed
+68,2025-09-08 13:23:54.017210,153.08,Hardware,"Santos, Harris and Allen",North America,completed
+351,2025-09-09 13:23:54.017210,337.49,Subscription,Lewis-Fisher,Europe,completed
+466,2025-09-09 13:23:54.017210,650.1,Subscription,Schwartz-Davis,LATAM,completed
+317,2025-09-09 13:23:54.017210,765.75,Software,Perkins-Cooke,Asia,completed
+344,2025-09-10 13:23:54.017210,797.57,Subscription,"Smith, Wright and Davis",LATAM,completed
+473,2025-09-10 13:23:54.017210,285.51,Consulting,"West, Barrett and Blake",LATAM,completed
+389,2025-09-10 13:23:54.017210,573.26,Hardware,"Good, Bates and Simon",North America,completed
+246,2025-09-10 13:23:54.017210,54.89,Subscription,Chaney-Raymond,North America,pending
+115,2025-09-11 13:23:54.017210,294.29,Software,"Santiago, Brown and Pearson",Europe,completed
+327,2025-09-11 13:23:54.017210,430.97,Software,Cain Group,LATAM,pending
+83,2025-09-11 13:23:54.017210,553.66,Subscription,Rogers-Bailey,North America,completed
+306,2025-09-11 13:23:54.017210,175.87,Hardware,Lopez Inc,North America,completed
+280,2025-09-11 13:23:54.017210,376.47,Consulting,Solomon-Schroeder,LATAM,completed
+416,2025-09-11 13:23:54.017210,775.38,Hardware,Goodman PLC,Europe,completed
+357,2025-09-12 13:23:54.017210,748.38,Subscription,"Sampson, Wilson and Mcmahon",Asia,completed
+141,2025-09-12 13:23:54.017210,123.67,Consulting,Williams Inc,Asia,completed
+217,2025-09-12 13:23:54.017210,383.39,Subscription,Monroe Group,LATAM,completed
+369,2025-09-13 13:23:54.017210,396.78,Subscription,Briggs Ltd,Europe,completed
+134,2025-09-13 13:23:54.017210,548.46,Software,"Lewis, Howard and Wells",Europe,completed
+480,2025-09-14 13:23:54.017210,469.03,Subscription,"Robertson, Taylor and Khan",North America,completed
+352,2025-09-14 13:23:54.017210,727.03,Subscription,Martin PLC,Asia,completed
+275,2025-09-14 13:23:54.017210,262.31,Software,Cook-Gordon,Asia,pending
+347,2025-09-14 13:23:54.017210,165.13,Software,White and Sons,North America,completed
+441,2025-09-14 13:23:54.017210,1024.85,Software,Mendez-Hunter,North America,completed
+106,2025-09-14 13:23:54.017210,719.97,Software,Allen Group,Europe,completed
+189,2025-09-15 13:23:54.017210,528.97,Consulting,Owen-Johnston,LATAM,completed
+48,2025-09-15 13:23:54.017210,119.76,Software,"Owens, Wang and Fisher",LATAM,completed
+385,2025-09-16 13:23:54.017210,39.65,Consulting,Silva LLC,Asia,completed
+410,2025-09-16 13:23:54.017210,95.33,Subscription,Davis and Sons,Asia,completed
+456,2025-09-16 13:23:54.017210,462.6,Subscription,Bullock-Green,Asia,completed
+431,2025-09-16 13:23:54.017210,421.41,Software,Moyer and Sons,Asia,completed
+346,2025-09-17 13:23:54.017210,470.39,Consulting,Finley-Morgan,Europe,completed
+90,2025-09-18 13:23:54.017210,138.21,Hardware,Phillips Inc,Europe,completed
+368,2025-09-18 13:23:54.017210,415.87,Hardware,Smith Ltd,LATAM,completed
+381,2025-09-19 13:23:54.017210,811.04,Software,Schmidt-Chang,North America,completed
+394,2025-09-19 13:23:54.017210,638.56,Consulting,Roberson LLC,LATAM,completed
+24,2025-09-20 13:23:54.017210,196.72,Software,"Garrett, Byrd and Sanders",North America,completed
+127,2025-09-20 13:23:54.017210,158.7,Software,Webb-Martinez,Asia,completed
+58,2025-09-20 13:23:54.017210,209.17,Subscription,Leonard Ltd,North America,completed
+59,2025-09-21 13:23:54.017210,505.02,Hardware,"Mayer, Flores and Anderson",Europe,completed
+292,2025-09-22 13:23:54.017210,708.75,Hardware,"Murray, Welch and Gill",LATAM,refunded
+403,2025-09-22 13:23:54.017210,630.12,Subscription,Reilly Inc,Asia,completed
+94,2025-09-22 13:23:54.017210,325.08,Hardware,Miller Ltd,LATAM,completed
+129,2025-09-22 13:23:54.017210,167.48,Software,"Keller, Martin and Mathis",Asia,completed
+178,2025-09-23 13:23:54.017210,545.67,Hardware,Hayes-Garrett,North America,completed
+409,2025-09-23 13:23:54.017210,809.07,Hardware,Cooper-Brown,Europe,completed
+229,2025-09-23 13:23:54.017210,239.28,Consulting,Moore Group,Asia,completed
+404,2025-09-24 13:23:54.017210,195.1,Subscription,Simon-Rosario,North America,completed
+65,2025-09-24 13:23:54.017210,226.2,Software,Oneal Inc,Europe,completed
+243,2025-09-24 13:23:54.017210,707.04,Subscription,"Ray, Black and Contreras",LATAM,completed
+88,2025-09-25 13:23:54.017210,50.67,Subscription,Blake PLC,North America,completed
+321,2025-09-25 13:23:54.017210,310.47,Software,"Walker, Avila and Burnett",North America,completed
+123,2025-09-25 13:23:54.017210,602.2,Subscription,Robertson-Wilkinson,LATAM,completed
+264,2025-09-25 13:23:54.017210,211.56,Consulting,"Hansen, Montgomery and Hudson",Asia,completed
+415,2025-09-25 13:23:54.017210,175.56,Subscription,Graves-Tate,North America,completed
+371,2025-09-26 13:23:54.017210,54.07,Hardware,Waters Group,Europe,completed
+13,2025-09-26 13:23:54.017210,52.41,Consulting,Warren-Jordan,LATAM,completed
+70,2025-09-27 13:23:54.017210,242.61,Hardware,Martinez-Holland,North America,completed
+375,2025-09-28 13:23:54.017210,1114.03,Software,"Owens, Curtis and Garcia",Asia,completed
+63,2025-09-29 13:23:54.017210,198.97,Consulting,Maynard-Gray,Asia,completed
+234,2025-09-29 13:23:54.017210,645.27,Subscription,Richardson-Black,North America,completed
+156,2025-09-29 13:23:54.017210,514.07,Software,Sherman Inc,Europe,completed
+329,2025-09-30 13:23:54.017210,376.53,Consulting,"Perez, Brown and Reed",Asia,completed
+430,2025-09-30 13:23:54.017210,387.44,Subscription,Turner Group,Europe,completed
+92,2025-09-30 13:23:54.017210,561.41,Subscription,Wilson Inc,Europe,pending
+471,2025-09-30 13:23:54.017210,584.69,Consulting,"Flores, Mcgee and Ball",Asia,completed
+215,2025-09-30 13:23:54.017210,172.44,Software,Jones-Yates,Asia,completed
+38,2025-10-01 13:23:54.017210,69.69,Hardware,Garza-Tanner,Europe,completed
+173,2025-10-02 13:23:54.017210,398.32,Subscription,Holloway-Chapman,North America,completed
+91,2025-10-02 13:23:54.017210,136.49,Consulting,"Peterson, Morrison and Prince",Europe,pending
+303,2025-10-02 13:23:54.017210,485.35,Subscription,Hayes and Sons,Europe,completed
+190,2025-10-03 13:23:54.017210,558.65,Subscription,"Scott, Johnston and Sweeney",Europe,completed
+338,2025-10-04 13:23:54.017210,780.98,Subscription,James LLC,Asia,completed
+153,2025-10-04 13:23:54.017210,267.93,Consulting,Nguyen-Smith,LATAM,completed
+89,2025-10-04 13:23:54.017210,645.94,Software,"Rodriguez, Smith and Wilson",LATAM,completed
+255,2025-10-04 13:23:54.017210,935.53,Software,Goodwin and Sons,Europe,completed
+272,2025-10-04 13:23:54.017210,909.1,Software,Reid-Harris,North America,completed
+110,2025-10-04 13:23:54.017210,783.92,Software,Smith-Bush,Asia,completed
+366,2025-10-04 13:23:54.017210,156.5,Subscription,Dyer-Sandoval,Asia,refunded
+450,2025-10-05 13:23:54.017210,918.73,Hardware,Turner-Hoffman,North America,completed
+172,2025-10-05 13:23:54.017210,889.58,Consulting,"Brown, Scott and Meadows",Europe,completed
+428,2025-10-05 13:23:54.017210,116.19,Consulting,"Kaiser, Jones and Smith",LATAM,completed
+422,2025-10-05 13:23:54.017210,323.23,Software,Soto-White,North America,completed
+336,2025-10-06 13:23:54.017210,288.92,Consulting,Johnson PLC,LATAM,completed
+288,2025-10-06 13:23:54.017210,144.78,Consulting,Richardson and Sons,Europe,completed
+81,2025-10-06 13:23:54.017210,413.01,Software,Reed Group,Asia,completed
+361,2025-10-07 13:23:54.017210,144.06,Consulting,Weeks PLC,Asia,completed
+25,2025-10-07 13:23:54.017210,180.42,Hardware,"Carney, Hooper and Costa",North America,completed
+147,2025-10-08 13:23:54.017210,270.29,Consulting,"Davis, Jacobs and Shea",LATAM,completed
+131,2025-10-08 13:23:54.017210,605.06,Consulting,Davis-Hoover,LATAM,completed
+43,2025-10-08 13:23:54.017210,261.52,Subscription,"Cruz, Johnson and Wright",LATAM,completed
+324,2025-10-08 13:23:54.017210,488.03,Subscription,"Brown, Baker and Bautista",Asia,pending
+323,2025-10-09 13:23:54.017210,412.05,Hardware,Drake and Sons,North America,completed
+191,2025-10-09 13:23:54.017210,417.87,Subscription,Sanchez-Moore,North America,completed
+445,2025-10-09 13:23:54.017210,811.13,Subscription,Miller and Sons,North America,completed
+443,2025-10-09 13:23:54.017210,134.46,Consulting,Esparza-Thomas,Europe,completed
+483,2025-10-09 13:23:54.017210,192.63,Consulting,Ray-Wagner,Asia,completed
+465,2025-10-09 13:23:54.017210,717.8,Hardware,Johnston PLC,North America,completed
+287,2025-10-10 13:23:54.017210,407.44,Subscription,Dickson LLC,North America,completed
+205,2025-10-10 13:23:54.017210,460.01,Software,Perez and Sons,LATAM,completed
+132,2025-10-10 13:23:54.017210,410.71,Consulting,"Aguilar, Church and Moses",Asia,completed
+17,2025-10-10 13:23:54.017210,344.71,Consulting,Day-Miller,LATAM,completed
+158,2025-10-11 13:23:54.017210,836.54,Hardware,Maynard-Perez,Asia,completed
+455,2025-10-11 13:23:54.017210,198.38,Subscription,"Carpenter, Bradley and Garcia",Asia,completed
+298,2025-10-12 13:23:54.017210,232.79,Hardware,"Rogers, Valdez and Rhodes",North America,completed
+0,2025-10-12 13:23:54.017210,315.61,Subscription,Simmons-Harvey,Asia,completed
+270,2025-10-12 13:23:54.017210,479.09,Software,Vaughan-Hall,Europe,completed
+137,2025-10-12 13:23:54.017210,326.57,Hardware,Hernandez and Sons,North America,completed
+196,2025-10-12 13:23:54.017210,443.48,Subscription,Lewis Group,Europe,completed
+6,2025-10-12 13:23:54.017210,739.36,Consulting,Bender-Sanchez,North America,completed
+37,2025-10-12 13:23:54.017210,795.46,Hardware,Young Group,Europe,completed
+316,2025-10-13 13:23:54.017210,661.51,Consulting,"Johns, Montoya and Hester",Europe,completed
+9,2025-10-13 13:23:54.017210,440.83,Consulting,Hill and Sons,Europe,completed
+337,2025-10-13 13:23:54.017210,98.89,Consulting,Hill-Smith,North America,completed
+444,2025-10-13 13:23:54.017210,456.65,Software,Nelson-Mason,LATAM,completed
+85,2025-10-13 13:23:54.017210,297.96,Subscription,"Olson, Garcia and Phillips",Asia,completed
+322,2025-10-14 13:23:54.017210,690.5,Consulting,"Parks, Garcia and Rich",Asia,completed
+435,2025-10-14 13:23:54.017210,190.08,Subscription,"Thomas, Ryan and Williams",LATAM,completed
+340,2025-10-14 13:23:54.017210,499.02,Hardware,Short Ltd,North America,completed
+391,2025-10-16 13:23:54.017210,810.79,Consulting,Anderson-Gray,North America,completed
+453,2025-10-16 13:23:54.017210,254.83,Software,"Kelley, Patton and Nguyen",Asia,completed
+100,2025-10-16 13:23:54.017210,112.3,Consulting,Flores-Crawford,North America,completed
+120,2025-10-17 13:23:54.017210,557.68,Hardware,Walker-Johnston,Europe,completed
+271,2025-10-17 13:23:54.017210,631.81,Software,"Ford, Wilson and Daniels",Europe,completed
+154,2025-10-17 13:23:54.017210,493.27,Consulting,Ritter PLC,Europe,completed
+382,2025-10-17 13:23:54.017210,840.58,Software,"Patel, Frost and Blackwell",Europe,completed
+140,2025-10-18 13:23:54.017210,443.62,Hardware,Flores Group,Europe,completed
+78,2025-10-18 13:23:54.017210,204.71,Software,Long-Turner,LATAM,completed
+26,2025-10-19 13:23:54.017210,744.08,Subscription,"Torres, Long and Sherman",LATAM,refunded
+493,2025-10-19 13:23:54.017210,277.27,Hardware,Moon-Zimmerman,North America,completed
+495,2025-10-19 13:23:54.017210,240.36,Subscription,Carey-Johnson,North America,completed
+269,2025-10-20 13:23:54.017210,466.19,Hardware,Meyer-Collins,Asia,completed
+7,2025-10-20 13:23:54.017210,305.75,Consulting,Greene LLC,North America,completed
+228,2025-10-21 13:23:54.017210,575.63,Consulting,Ellis-Walker,Asia,completed
+20,2025-10-21 13:23:54.017210,332.96,Software,Taylor Inc,North America,completed
+16,2025-10-21 13:23:54.017210,418.69,Consulting,Mathis and Sons,Asia,refunded
+45,2025-10-22 13:23:54.017210,104.63,Subscription,"Jackson, Gutierrez and Schmidt",Asia,completed
+36,2025-10-22 13:23:54.017210,315.66,Subscription,Owens-Washington,LATAM,completed
+379,2025-10-22 13:23:54.017210,696.36,Hardware,"Miller, Hernandez and Fitzgerald",Asia,completed
+446,2025-10-22 13:23:54.017210,361.3,Consulting,"Patterson, Abbott and Garrison",North America,pending
+33,2025-10-23 13:23:54.017210,451.68,Consulting,Davis-Allen,North America,completed
+308,2025-10-25 13:23:54.017210,411.11,Subscription,Long-Ochoa,Europe,completed
+487,2025-10-25 13:23:54.017210,753.58,Software,Ward and Sons,North America,completed
+332,2025-10-25 13:23:54.017210,382.28,Subscription,Robles LLC,North America,completed
+263,2025-10-25 13:23:54.017210,986.15,Consulting,"Carr, Thompson and Rivera",Europe,pending
+32,2025-10-25 13:23:54.017210,761.84,Consulting,Smith Ltd,Europe,completed
+197,2025-10-26 13:23:54.017210,916.35,Consulting,Wright-Swanson,North America,refunded
+359,2025-10-27 13:23:54.017210,368.58,Software,Wright Inc,Asia,completed
+138,2025-10-28 13:23:54.017210,619.9,Software,Williams-Marquez,Europe,completed
+109,2025-10-28 13:23:54.017210,387.81,Software,"Sullivan, Herrera and Ritter",Asia,completed
+46,2025-10-28 13:23:54.017210,126.17,Subscription,Gibson PLC,North America,completed
+167,2025-10-29 13:23:54.017210,512.91,Consulting,Lewis-Harmon,Asia,completed
+373,2025-10-29 13:23:54.017210,400.86,Subscription,Salinas and Sons,LATAM,completed
+290,2025-10-29 13:23:54.017210,112.72,Software,"Wise, Morris and Fuentes",LATAM,completed
+497,2025-10-29 13:23:54.017210,514.01,Subscription,Simmons-Robles,Asia,completed
+342,2025-10-29 13:23:54.017210,570.45,Subscription,Mason-Davis,Europe,completed
+222,2025-10-30 13:23:54.017210,252.69,Hardware,Cox-Wiggins,North America,completed
+376,2025-10-30 13:23:54.017210,674.59,Consulting,Perry-Sanchez,Asia,completed
+121,2025-10-30 13:23:54.017210,277.39,Consulting,Schwartz PLC,Europe,refunded
+187,2025-11-01 13:23:54.017210,854.56,Hardware,Martin and Sons,LATAM,completed
+242,2025-11-01 13:23:54.017210,244.66,Subscription,"Smith, Braun and Washington",North America,completed
+42,2025-11-02 13:23:54.017210,383.05,Subscription,Hill LLC,Europe,completed
+387,2025-11-02 13:23:54.017210,779.66,Hardware,Rodriguez-Carter,North America,completed
+282,2025-11-02 13:23:54.017210,693.56,Consulting,"Simmons, Mitchell and Freeman",North America,completed
+204,2025-11-02 13:23:54.017210,130.5,Software,Morrison-Simpson,North America,pending
+208,2025-11-03 13:23:54.017210,477.31,Consulting,"Gray, Perry and Rodriguez",North America,completed
+248,2025-11-04 13:23:54.017210,409.56,Hardware,"Watts, Phelps and Berry",Europe,completed
+448,2025-11-04 13:23:54.017210,510.97,Software,Smith LLC,North America,refunded
+358,2025-11-04 13:23:54.017210,452.13,Software,Bailey Inc,Europe,completed
+266,2025-11-04 13:23:54.017210,643.07,Consulting,Armstrong-Skinner,Europe,completed
+458,2025-11-04 13:23:54.017210,642.45,Software,Brown Group,Europe,completed
+469,2025-11-04 13:23:54.017210,104.37,Consulting,"Dixon, Shaw and Mckee",North America,completed
+440,2025-11-05 13:23:54.017210,322.4,Consulting,"Ferrell, Burnett and Jackson",LATAM,completed
+39,2025-11-05 13:23:54.017210,243.92,Subscription,"Nunez, Richards and Taylor",North America,completed
+454,2025-11-05 13:23:54.017210,839.56,Subscription,Hernandez Inc,Europe,completed
+333,2025-11-05 13:23:54.017210,441.48,Software,"Hill, Bush and Wheeler",Europe,completed
+126,2025-11-06 13:23:54.017210,242.69,Consulting,Christian LLC,North America,completed
+143,2025-11-06 13:23:54.017210,285.45,Subscription,Wiggins Inc,North America,completed
+18,2025-11-06 13:23:54.017210,181.86,Subscription,Mcguire Inc,LATAM,completed
+383,2025-11-06 13:23:54.017210,597.27,Hardware,Lewis Group,Asia,completed
+3,2025-11-06 13:23:54.017210,286.05,Hardware,"Parker, Coleman and Mendoza",Europe,completed
+168,2025-11-07 13:23:54.017210,204.22,Consulting,Campbell Ltd,Asia,completed
+102,2025-11-07 13:23:54.017210,575.44,Software,"Henson, James and Mendoza",Asia,completed
+421,2025-11-07 13:23:54.017210,688.95,Hardware,Burns-Orozco,Asia,completed
+164,2025-11-08 13:23:54.017210,762.22,Hardware,Brown-Mathews,North America,completed
+86,2025-11-08 13:23:54.017210,40.64,Hardware,Ellison Ltd,North America,pending
+481,2025-11-09 13:23:54.017210,1197.57,Consulting,"Reeves, Velasquez and Bender",North America,completed
+356,2025-11-09 13:23:54.017210,1120.96,Consulting,Preston PLC,LATAM,completed
+334,2025-11-09 13:23:54.017210,438.22,Hardware,"Mcdonald, Lowery and Woods",LATAM,completed
+104,2025-11-10 13:23:54.017210,213.29,Subscription,Bright-Harvey,Asia,completed
+27,2025-11-10 13:23:54.017210,160.83,Software,Morris-Bailey,Europe,completed
+407,2025-11-11 13:23:54.017210,170.73,Software,"Solomon, Mccoy and Ross",North America,completed
+484,2025-11-11 13:23:54.017210,209.63,Software,Hamilton Inc,Asia,completed
+47,2025-11-12 13:23:54.017210,453.15,Consulting,Collins-Martinez,North America,completed
+133,2025-11-12 13:23:54.017210,451.4,Consulting,Wallace-Huffman,North America,completed
+330,2025-11-12 13:23:54.017210,88.1,Subscription,Riley Group,LATAM,completed
+52,2025-11-13 13:23:54.017210,397.8,Hardware,"Wilson, Johnson and Hicks",Europe,completed
+424,2025-11-13 13:23:54.017210,862.56,Software,Hunt Ltd,Europe,completed
+239,2025-11-13 13:23:54.017210,99.48,Subscription,"Adams, Brown and Anderson",LATAM,pending
+180,2025-11-14 13:23:54.017210,167.66,Software,"Jones, Lee and Flynn",Asia,completed
+199,2025-11-14 13:23:54.017210,125.91,Subscription,Sutton-Kidd,Asia,completed
+245,2025-11-14 13:23:54.017210,181.54,Consulting,Bell PLC,Europe,completed
+307,2025-11-14 13:23:54.017210,475.17,Hardware,"Santiago, Allen and Hernandez",Asia,completed
+491,2025-11-15 13:23:54.017210,197.88,Hardware,Mckee Inc,North America,pending
+22,2025-11-15 13:23:54.017210,419.84,Subscription,Lyons-Mosley,Asia,completed
+23,2025-11-15 13:23:54.017210,84.32,Hardware,Atkins Inc,Europe,refunded
+44,2025-11-15 13:23:54.017210,131.69,Software,"Jones, Anderson and Williams",North America,pending
+419,2025-11-16 13:23:54.017210,1049.3,Consulting,Graham-Johnson,Europe,completed
+467,2025-11-16 13:23:54.017210,738.51,Hardware,Bullock-Hardy,LATAM,completed
+57,2025-11-18 13:23:54.017210,516.59,Consulting,Mitchell-Payne,LATAM,completed
+40,2025-11-18 13:23:54.017210,357.99,Consulting,"Martinez, Lopez and Caldwell",North America,completed
+163,2025-11-18 13:23:54.017210,167.96,Software,"Rodriguez, Woods and Martinez",Europe,completed
+461,2025-11-19 13:23:54.017210,319.79,Hardware,Taylor-Simmons,North America,pending
+249,2025-11-19 13:23:54.017210,515.28,Subscription,Smith LLC,Asia,refunded
+34,2025-11-19 13:23:54.017210,328.23,Software,Pace Ltd,Asia,completed
+113,2025-11-19 13:23:54.017210,279.56,Subscription,Navarro LLC,Europe,pending
+15,2025-11-20 13:23:54.017210,460.69,Consulting,"Cannon, Turner and Berry",Asia,completed
+295,2025-11-20 13:23:54.017210,387.28,Subscription,Wright LLC,North America,completed
+279,2025-11-22 13:23:54.017210,248.24,Software,Clark-Brown,Europe,completed
+426,2025-11-22 13:23:54.017210,898.55,Software,House Group,Asia,completed
+203,2025-11-23 13:23:54.017210,393.36,Consulting,Moreno-Duran,Asia,completed
+176,2025-11-23 13:23:54.017210,829.78,Consulting,"Bryant, Gray and Diaz",LATAM,refunded
+160,2025-11-23 13:23:54.017210,942.49,Subscription,Davila-Cuevas,Asia,completed
+285,2025-11-23 13:23:54.017210,402.73,Software,Baker PLC,LATAM,completed
+151,2025-11-24 13:23:54.017210,610.17,Subscription,Cochran-Johnson,Asia,pending
+459,2025-11-24 13:23:54.017210,408.13,Subscription,Kelly Group,North America,completed
+95,2025-11-24 13:23:54.017210,417.21,Software,Serrano-Hoover,Asia,completed
+438,2025-11-25 13:23:54.017210,863.58,Subscription,Williams PLC,Asia,completed
+390,2025-11-25 13:23:54.017210,248.7,Hardware,Jensen Ltd,Asia,completed
+183,2025-11-26 13:23:54.017210,394.75,Subscription,Singh PLC,Asia,completed
+314,2025-11-26 13:23:54.017210,724.67,Hardware,Carlson-Bowers,LATAM,completed
+51,2025-11-26 13:23:54.017210,68.62,Subscription,"Nixon, White and Mendez",LATAM,completed
+488,2025-11-26 13:23:54.017210,174.34,Hardware,Payne-Meyer,Europe,completed
+397,2025-11-28 13:23:54.017210,60.56,Subscription,Paul-Patrick,North America,completed
+174,2025-11-28 13:23:54.017210,540.91,Consulting,Hawkins-Nelson,Asia,completed
+309,2025-11-28 13:23:54.017210,299.12,Hardware,Garza Group,North America,completed
+362,2025-11-29 13:23:54.017210,484.75,Software,"Estrada, Sanchez and Valdez",North America,completed
+122,2025-11-29 13:23:54.017210,307.45,Hardware,"Sanchez, Gibbs and Goodwin",LATAM,completed
+98,2025-11-30 13:23:54.017210,179.72,Software,Kramer LLC,LATAM,completed
+211,2025-11-30 13:23:54.017210,881.27,Consulting,"Davis, Anderson and Knight",LATAM,completed
+220,2025-11-30 13:23:54.017210,373.27,Hardware,Floyd-Woods,LATAM,completed
+281,2025-11-30 13:23:54.017210,1008.58,Subscription,Gonzales-King,Asia,completed
+499,2025-11-30 13:23:54.017210,1092.78,Consulting,Smith Group,North America,completed
+388,2025-12-01 13:23:54.017210,472.65,Software,Porter Inc,Europe,completed
+213,2025-12-01 13:23:54.017210,399.88,Subscription,Adams-Johnston,Europe,completed
+238,2025-12-02 13:23:54.017210,638.09,Software,"Davis, Ruiz and Harris",Asia,refunded
+405,2025-12-02 13:23:54.017210,671.29,Software,Mckenzie-Nelson,Europe,completed
+108,2025-12-03 13:23:54.017210,88.63,Consulting,"Cruz, Fitzpatrick and Hurst",Asia,completed
+233,2025-12-03 13:23:54.017210,440.53,Software,Johnson Ltd,North America,completed
+235,2025-12-03 13:23:54.017210,224.6,Hardware,"Gates, Gonzales and Thomas",Asia,completed
+273,2025-12-05 13:23:54.017210,448.79,Software,Lopez-Phillips,Europe,completed
+200,2025-12-05 13:23:54.017210,101.38,Hardware,Griffith-Gillespie,Europe,completed
+202,2025-12-05 13:23:54.017210,612.43,Subscription,Gordon Inc,Europe,completed
+423,2025-12-05 13:23:54.017210,224.21,Consulting,Pearson-Weaver,North America,completed
+283,2025-12-05 13:23:54.017210,118.67,Consulting,"Costa, Peterson and Hendricks",Europe,completed
+241,2025-12-05 13:23:54.017210,148.67,Software,"Mccoy, Mack and Ali",Europe,completed
+175,2025-12-06 13:23:54.017210,332.96,Software,"Dunn, Gonzales and Thompson",North America,completed
+485,2025-12-06 13:23:54.017210,1064.97,Software,Fisher-Warren,North America,completed
+161,2025-12-06 13:23:54.017210,886.7,Hardware,Lane Inc,LATAM,refunded
+449,2025-12-06 13:23:54.017210,206.71,Subscription,Moore-Hodges,Europe,completed
+354,2025-12-06 13:23:54.017210,1011.11,Consulting,"Clay, Johnson and Tucker",LATAM,completed
+268,2025-12-06 13:23:54.017210,659.17,Subscription,Smith Group,Asia,completed
+365,2025-12-07 13:23:54.017210,305.73,Subscription,Nichols-Schneider,Asia,completed
+267,2025-12-07 13:23:54.017210,832.19,Consulting,Ibarra Ltd,Europe,completed
+35,2025-12-07 13:23:54.017210,66.08,Hardware,Davis Inc,Asia,refunded
+54,2025-12-08 13:23:54.017210,149.37,Software,Houston-Houston,Europe,completed
+460,2025-12-08 13:23:54.017210,140.25,Software,Scott-Chambers,North America,pending
+492,2025-12-09 13:23:54.017210,161.95,Consulting,Hodge PLC,Asia,completed
+128,2025-12-10 13:23:54.017210,263.2,Consulting,Smith LLC,LATAM,completed
+494,2025-12-10 13:23:54.017210,421.11,Software,Brooks-Hardy,Asia,completed
+350,2025-12-11 13:23:54.017210,258.12,Hardware,Spencer-Atkins,LATAM,completed
+436,2025-12-11 13:23:54.017210,507.41,Hardware,Leonard-Vaughan,North America,completed
+482,2025-12-11 13:23:54.017210,389.39,Hardware,Roberts PLC,LATAM,completed
+49,2025-12-11 13:23:54.017210,163.95,Subscription,Harris-Sanford,Asia,completed
+149,2025-12-12 13:23:54.017210,146.42,Software,Robbins Inc,Europe,completed
+392,2025-12-12 13:23:54.017210,270.04,Software,Jones PLC,Asia,completed
+478,2025-12-12 13:23:54.017210,206.2,Subscription,Brown LLC,Europe,completed
+425,2025-12-13 13:23:54.017210,772.18,Subscription,Lewis PLC,Europe,completed
+250,2025-12-13 13:23:54.017210,804.84,Consulting,Stevenson-Sparks,LATAM,completed
+14,2025-12-13 13:23:54.017210,420.75,Consulting,Maldonado-Taylor,LATAM,completed
+53,2025-12-13 13:23:54.017210,103.75,Consulting,Collins-Clark,LATAM,completed
+117,2025-12-14 13:23:54.017210,154.68,Subscription,Wilkins PLC,Asia,completed
+259,2025-12-15 13:23:54.017210,398.13,Software,Long-Aguirre,LATAM,completed
+5,2025-12-15 13:23:54.017210,179.24,Consulting,Edwards Ltd,North America,completed
+457,2025-12-16 13:23:54.017210,778.95,Software,Hogan Inc,Asia,completed
+62,2025-12-16 13:23:54.017210,252.16,Consulting,"White, Perry and Walker",North America,completed
+181,2025-12-16 13:23:54.017210,553.35,Subscription,Ramos LLC,North America,completed
+301,2025-12-16 13:23:54.017210,745.26,Consulting,Lutz-Davis,Asia,completed
+370,2025-12-17 13:23:54.017210,559.98,Software,"Gentry, Lucas and Gilbert",Asia,completed
+31,2025-12-17 13:23:54.017210,166.33,Software,Ross PLC,Asia,completed
+349,2025-12-17 13:23:54.017210,708.02,Software,Collier Inc,Europe,completed
+360,2025-12-18 13:23:54.017210,315.29,Software,Poole and Sons,North America,completed
+256,2025-12-18 13:23:54.017210,301.07,Software,Rivera-Adams,LATAM,completed
+87,2025-12-18 13:23:54.017210,318.42,Consulting,Lucas-Walsh,Asia,completed
+393,2025-12-19 13:23:54.017210,369.53,Subscription,Price PLC,North America,completed
+2,2025-12-19 13:23:54.017210,403.12,Consulting,White-Henderson,Europe,completed
+411,2025-12-19 13:23:54.017210,762.39,Software,"Perez, Barker and Khan",Europe,completed
+1,2025-12-19 13:23:54.017210,191.65,Hardware,"Robertson, Webb and Willis",North America,completed
+146,2025-12-19 13:23:54.017210,559.26,Software,"Thompson, Ingram and Wagner",LATAM,completed
+396,2025-12-20 13:23:54.017210,1157.71,Consulting,"Jones, Davis and Holmes",North America,completed
+251,2025-12-21 13:23:54.017210,980.18,Consulting,Beck-Adams,LATAM,completed
+66,2025-12-21 13:23:54.017210,187.93,Hardware,Taylor-Le,Europe,completed
+12,2025-12-22 13:23:54.017210,51.22,Consulting,Rose-Hart,Asia,completed
+413,2025-12-22 13:23:54.017210,233.48,Subscription,Williams-Garcia,Europe,completed
+77,2025-12-23 13:23:54.017210,220.42,Software,"Pierce, Lee and Bishop",Asia,completed
+402,2025-12-23 13:23:54.017210,85.16,Software,Flores-Ward,North America,completed
+244,2025-12-23 13:23:54.017210,476.28,Software,Patel and Sons,Asia,completed
+433,2025-12-23 13:23:54.017210,304.11,Subscription,Snow-Wright,Europe,completed
+475,2025-12-24 13:23:54.017210,335.15,Hardware,Gonzalez-Frank,Asia,completed
+84,2025-12-24 13:23:54.017210,200.26,Consulting,Robinson-Mcintyre,North America,completed
+452,2025-12-24 13:23:54.017210,779.52,Subscription,Potter Ltd,North America,refunded
+237,2025-12-25 13:23:54.017210,674.17,Subscription,Smith PLC,LATAM,completed
+216,2025-12-25 13:23:54.017210,692.23,Subscription,"Price, Jensen and Steele",North America,completed
+300,2025-12-25 13:23:54.017210,248.34,Hardware,Freeman Group,Asia,completed
+412,2025-12-26 13:23:54.017210,94.22,Software,"Graham, Sanchez and Bates",LATAM,completed
+343,2025-12-26 13:23:54.017210,486.04,Hardware,"Larson, Malone and Barker",North America,completed
+193,2025-12-26 13:23:54.017210,123.81,Subscription,"Benson, Rivers and Giles",North America,completed
+377,2025-12-27 13:23:54.017210,484.85,Hardware,Lopez-Austin,Europe,completed
+73,2025-12-27 13:23:54.017210,144.8,Hardware,Ward PLC,Asia,completed
+162,2025-12-27 13:23:54.017210,109.76,Consulting,"Stanley, Andrade and Edwards",Europe,completed
+152,2025-12-27 13:23:54.017210,581.05,Consulting,Fuller Ltd,Asia,completed
+226,2025-12-28 13:23:54.017210,956.97,Consulting,Alexander PLC,LATAM,completed
+335,2025-12-29 13:23:54.017210,648.7,Software,Rodriguez Ltd,Asia,refunded
+257,2025-12-29 13:23:54.017210,426.67,Software,"Mcdaniel, Zimmerman and Hart",LATAM,pending
+372,2025-12-29 13:23:54.017210,478.83,Software,Harris Ltd,LATAM,completed
+155,2025-12-29 13:23:54.017210,248.09,Software,Harris Group,Europe,completed

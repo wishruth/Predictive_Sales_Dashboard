@@ -1,0 +1,11 @@
+# Environments
+.env
+venv/
+__pycache__/
+
+# Dependencies
+node_modules/
+backend/venv/
+
+# System files
+.DS_Store
